@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACI,sBAAuB,CAEvB,WAAY,CACZ,UACJ,CAEA,aALI,YAOJ,CAEA,KACI,WACJ","file":"main.32c4ef87.chunk.css","sourcesContent":[".bar{\n    background-color: green;\n    margin: 0.5rem;\n    height: 1rem;\n    color: white\n}\n\n.navbar{\n    margin: .5rem;\n}\n\n.btn{\n    margin: 1rem\n}"]}
