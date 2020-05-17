@@ -74,7 +74,7 @@ class App extends Component {
        start++ //  incrementing start value
     }
             // calling quick sort recursively
-    return [...quickSort(left), pivot, ...this.quickSort(right)];
+    return [...this.quickSort(left), pivot, ...this.quickSort(right)];
 }
 
   render() {
