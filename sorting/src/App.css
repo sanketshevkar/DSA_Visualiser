@@ -1,0 +1,14 @@
+.bar{
+    background-color: green;
+    margin: 0.5rem;
+    height: 1rem;
+    color: white
+}
+
+.navbar{
+    margin: .5rem;
+}
+
+.btn{
+    margin: 1rem
+}
